@@ -21,7 +21,7 @@ public class StaticVariableDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Demo obj = new Demo();
-		Demo obj1 = new Demo(5);
+		Demo obj1 = new Demo();
 	}
 
 }
